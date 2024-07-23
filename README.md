@@ -31,3 +31,18 @@ Es un software que permite que componentes como el sistema operativo y las aplic
 
 ## Software de desarrollo
 Son programas que permiten a los desarrolladores de software depurar, probar, escribir y desarrollar otros programas.
+
+
+
+## BIBLIOGRAFÍA
+
+- [CILSA](https://desarrollarinclusion.cilsa.org/tecnologia-inclusiva/que-es-un-sistema-operativo/#:~:text=Un%20sistema%20operativo%20es%20un,placa%20de%20red%2C%20entre%20otros.)
+
+- [IBM](https://www.ibm.com/docs/es/control-desk/7.6.1.2?topic=module-users-application)
+
+- [INTEL](https://www.intel.la/content/www/xl/es/support/articles/000056547/software/software-applications.html#:~:text=Un%20controlador%20de%20dispositivo%20(a,una%20determinada%20pieza%20de%20hardware.))
+
+- [TUATARA](https://tuatara.co/blog/software/categorias-desarrollo-calidad/#:~:text=Son%20programas%20que%20le%20brindan,escribir%20y%20desarrollar%20otros%20programas.)
+
+- [JVS](https://www.jvs-informatica.com/blog/glosario/bus/)
+
