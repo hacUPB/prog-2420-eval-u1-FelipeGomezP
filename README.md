@@ -13,3 +13,21 @@ HDD significa disco duro. Los SSD almacenan datos en circuitos electrónicos. Lo
 ## Placa base (Motherboard)
 Una placa base es un circuito impreso al que se conectan el resto de componentes de tu ordenador para que puedan funcionar de forma óptima.
 
+## Dispositivos de entrada y salida
+Los ejemplosm del los dispositivos de entrada serían: teclado, ratón, escáner, micrófono, etc. Y los dispositivos de salida serían: monitorm, impresora, etc. 
+
+## Buses (de datos y dirección)
+El bus de datos transporta los respectivos datos atravez de los componentes de la computadora y el bus de dirección transporta las direcciones de memoria donde se encuentran los datos.
+
+# SOFTWARE 
+## Sistema Operativo
+Es un conjunto de programas que permite manejar la memoria, disco, medios de almacenamiento de información y los diferentes periféricos o recursos de nuestra computadora.
+
+## Aplicaciones de usuario
+La aplicación Usuarios es donde crea y administra registros de usuarios. Los registros de usuario contienen nombres de usuario, contraseñas y perfiles de seguridad que determinan las aplicaciones, opciones y datos a los que puede acceder el usuario.
+
+## Drivers
+Es un software que permite que componentes como el sistema operativo y las aplicaiones se puedan comunicar con el hardware, por ejemplo: los dravers de tarjeta gráfica.
+
+## Software de desarrollo
+Son programas que permiten a los desarrolladores de software depurar, probar, escribir y desarrollar otros programas.
