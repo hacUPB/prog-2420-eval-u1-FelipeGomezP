@@ -1,0 +1,96 @@
+### Problema 1: Determinar el promedio de calificaciones de un estudiante y si ha aprobado o no
+
+Ana quiere saber si ha aprobado sus exámenes finales. Tiene una lista de sus calificaciones y necesita calcular el promedio. Para aprobar, debe tener un promedio de al menos 3.0.
+
+## SOLUCIÓN
+
+Inicio
+
+promedio = suma_total / #decalificaciones 
+
+suma_total = calificación1 + calificación2 ...
+
+Declarar una lista calificaciones y asignarle las calificaciones de Ana.
+
+Inicializar una variable
+     suma = 0.
+
+Inicializar una variable n con el número de elementos en calificaciones.
+Para cada calificación nota en calificaciones, hacer:
+Sumar nota a suma.
+
+Calcular promedio
+
+Si promedio es mayor o igual a 3.0, entonces:
+    Mostrar "Aprobado".
+    Sino, mostrar "No aprobado".
+
+Fin
+
+
+### Problema 2: Determinar si un número de identificación (como un DNI) es válido utilizando una fórmula de verificación
+
+Javier necesita verificar si su número de identificación (DNI) es válido. El DNI debe cumplir con una fórmula de verificación específica, que consiste en sumar los dígitos del número y comprobar si el resultado es múltiplo de 10.
+
+Inicio
+
+Ingresar el número de identificación DNI.
+
+Inicializar una variable 
+    suma en 0.
+
+Para cada dígito d en DNI, hacer:
+
+Verificar si d es enter, entonces:
+    Continuar con la operación
+    sino, mostrar "item no válido"
+
+Sumar 
+    d a suma.
+
+Si suma % 10 es igual a 0, entonces:
+    Mostrar "DNI válido".
+    Sino, mostrar "DNI inválido".
+
+Fin
+
+
+### Problema 6 (obligatorio): Calcular la edad de una persona a partir de su fecha de nacimiento y la fecha actual
+
+**Descripción del Problema:**
+Se desea saber cuántos años, meses y días tiene actualmente una persona, basándose en su fecha de nacimiento. Además, le gustaría saber si ya ha cumplido años este año o aún no, y si hoy es su cumpleaños para celebrarlo. Cada una de las fechas está conformada por 3 variables: día, mes y año.
+
+Inicio
+
+//Leer 
+    dia_nac
+    mes_nac  
+    año_nac (fecha de nacimiento).
+
+//Leer 
+    dia_actual
+    mes_actual 
+    año_actual (fecha actual).
+
+Calcular años como 
+    año_actual - año_nac.
+
+Si mes_actual es menor que mes_nac o (mes_actual es igual a mes_nac y dia_actual es menor que dia_nac), entonces:
+
+    Restar 1 de años.
+
+//Calcular meses como mes_actual - mes_nac.
+
+Si meses es negativo, entonces sumar 12 a meses.
+    Calcular 
+        días como dia_actual - dia_nac.
+
+Si días es negativo, entonces:
+Restar 1 de meses.
+Sumar el número de días del mes anterior a días.
+Si mes_actual es igual a mes_nac y dia_actual es igual a dia_nac, entonces:
+
+    Mostrar "¡Feliz cumpleaños!".
+    Mostrar años, meses, y días.
+
+Fin
